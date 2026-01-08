@@ -31,7 +31,7 @@ Tôi tập trung sử dụng các công nghệ cốt lõi để nắm vững n�
 * **Portfolio Filter:** Lọc dự án theo danh mục (Web Design, Applications, Web Development).
 * **Contact Integration:** Tích hợp liên kết nhanh đến Email (Gmail), LinkedIn và GitHub.
 
-## Screenshots
+## Giao diện trang web
 
 ![Hình minh họa](https://github.com/PhucHungNanba/Portfolio/blob/main/vcard-personal-portfolio/assets/images/demo_index.jpg?raw=true)
 
@@ -58,5 +58,5 @@ Nếu bạn muốn tải source code này về máy để tham khảo:
 Nếu bạn thấy hứng thú với profile của tôi hoặc muốn hợp tác, đừng ngần ngại liên hệ:
 
 * **Full Name:** Huỳnh Phúc Hưng
-* **Email:** [huynhphuchung3001@gmail.com](mailto:huynhphuchung3001@gmail.com)
-* **LinkedIn:** [Phúc Hưng Huỳnh]([https://www.linkedin.com/in/ph%C3%BAc-h%C6%B0ng-huynh-9a3a823a3//](https://www.linkedin.com/in/ph%C3%BAc-h%C6%B0ng-huynh-9a3a823a3/))
+* **Email:** [huynhphuchung3001@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=huynhphuchung3001@gmail.com)
+* **LinkedIn:** [Phúc Hưng Huỳnh](https://www.linkedin.com/in/ph%C3%BAc-h%C6%B0ng-huynh-9a3a823a3/)

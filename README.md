@@ -5,17 +5,16 @@
 
 > **"Coding is not just about logic, it's about creating art that works."**
 
-## Giới thiệu (Introduction)
+## Giới thiệu
 
-Chào mừng bạn đến với **Personal Portfolio** của tôi. Đây là một dự án **Side Project** (dự án cá nhân) được tôi xây dựng hoàn toàn từ đầu (from scratch) trong quá trình tự học và rèn luyện kỹ năng Frontend.
+Chào mừng bạn đến với **Personal Portfolio** của tôi. Đây là một dự án **Side Project** được tôi xây dựng hoàn toàn từ đầu (from scratch) trong quá trình tự học và rèn luyện kỹ năng Frontend.
 
 Mục tiêu của dự án này không chỉ để tạo ra một chiếc "CV Online" giới thiệu bản thân, mà còn là nơi tôi thực hành các kiến thức về HTML, CSS nâng cao và JavaScript thuần.
 
 ## Demo
-**Xem trang web tại đây:** [LINK_GITHUB_PAGES_CUA_BAN](https://huynhphuchung3001.github.io/Portfolio)
-*(Lưu ý: Bạn hãy bật GitHub Pages trong phần Settings của repo để có link này nhé)*
+**Xem trang web tại đây:** [PhucHungNanba](https://github.com/PhucHungNanba/Portfolio.git)
 
-## Công nghệ sử dụng (Tech Stack)
+## Công nghệ sử dụng
 
 Tôi tập trung sử dụng các công nghệ cốt lõi để nắm vững nền tảng trước khi đi vào các Framework:
 
@@ -24,7 +23,7 @@ Tôi tập trung sử dụng các công nghệ cốt lõi để nắm vững n�
 * ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) **JavaScript (Vanilla):** Xử lý logic chuyển tab, sidebar toggle và filter dự án.
 * **Ionicons:** Bộ icon hiện đại cho giao diện.
 
-## Tính năng nổi bật (Key Features)
+## Tính năng nổi bật
 
 * **Responsive Design:** Tương thích hoàn toàn trên Desktop, Tablet và Mobile.
 * **Sidebar Navigation:** Thanh điều hướng thông minh, ẩn/hiện mượt mà trên di động.
@@ -34,10 +33,9 @@ Tôi tập trung sử dụng các công nghệ cốt lõi để nắm vững n�
 
 ## Screenshots
 
-*(Bạn có thể thêm ảnh chụp màn hình trang web của bạn vào đây sau)*
-![Screenshot](./assets/images/screenshot.png)
+![Hình minh họa](https://github.com/PhucHungNanba/Portfolio/blob/main/vcard-personal-portfolio/assets/images/demo_index.jpg?raw=true)
 
-## Cài đặt & Chạy thử (Installation)
+## Cài đặt & Chạy thử
 
 Nếu bạn muốn tải source code này về máy để tham khảo:
 
@@ -55,10 +53,10 @@ Nếu bạn muốn tải source code này về máy để tham khảo:
 
 3.  Mở file `index.html` bằng trình duyệt bất kỳ hoặc sử dụng **Live Server** trên VS Code để xem kết quả.
 
-## Liên hệ (Contact)
+## Liên hệ
 
 Nếu bạn thấy hứng thú với profile của tôi hoặc muốn hợp tác, đừng ngần ngại liên hệ:
 
 * **Full Name:** Huỳnh Phúc Hưng
 * **Email:** [huynhphuchung3001@gmail.com](mailto:huynhphuchung3001@gmail.com)
-* **LinkedIn:** [Phúc Hưng Huỳnh]([https://www.linkedin.com/in/phuc-hung-huynh-123456/](https://www.linkedin.com/in/ph%C3%BAc-h%C6%B0ng-huynh-9a3a823a3/))
+* **LinkedIn:** [Phúc Hưng Huỳnh]([https://www.linkedin.com/in/ph%C3%BAc-h%C6%B0ng-huynh-9a3a823a3//](https://www.linkedin.com/in/ph%C3%BAc-h%C6%B0ng-huynh-9a3a823a3/))

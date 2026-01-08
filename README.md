@@ -42,14 +42,18 @@ Tôi tập trung sử dụng các công nghệ cốt lõi để nắm vững n�
 Nếu bạn muốn tải source code này về máy để tham khảo:
 
 1.  Clone repository này:
+
+    Linux, macOS và Windows:
     ```bash
-    git clone [https://github.com/PhucHungNanba/Portfolio.git](https://github.com/PhucHungNanba/Portfolio.git)
+    git clone https://github.com/PhucHungNanba/Portfolio.git
     ```
+
 2.  Di chuyển vào thư mục dự án:
     ```bash
-    cd vcard-personal-portfolio
+    cd Portfolio
     ```
-3.  Mở file `index.html` bằng trình duyệt bất kỳ hoặc sử dụng **Live Server** trên VS Code.
+
+3.  Mở file `index.html` bằng trình duyệt bất kỳ hoặc sử dụng **Live Server** trên VS Code để xem kết quả.
 
 ## Liên hệ (Contact)
 

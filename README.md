@@ -6,7 +6,7 @@
 > **"Coding is not just about logic, it's about creating art that works."**
 
 ## Giới thiệu
-
+ 
 Chào mừng bạn đến với **Personal Portfolio** của tôi. Đây là một dự án **Side Project** được tôi xây dựng hoàn toàn từ đầu (from scratch) trong quá trình tự học và rèn luyện kỹ năng Frontend.
 
 Mục tiêu của dự án này không chỉ để tạo ra một chiếc "CV Online" giới thiệu bản thân, mà còn là nơi tôi thực hành các kiến thức về HTML, CSS nâng cao và JavaScript thuần.

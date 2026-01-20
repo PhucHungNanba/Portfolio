@@ -3,7 +3,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-> **"Coding is not just about logic, it's about creating art that works."**
+> **"Coding is not just about logic, it's about creating art that works."**   
          
 ## Giới thiệu   
  
